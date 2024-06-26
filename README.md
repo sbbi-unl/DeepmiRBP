@@ -36,10 +36,19 @@ To ensure the proper functioning of DeepMiRBP, please make sure you have the fol
 
 - **Python**: 3.8 or higher
 - **NumPy**: v1.19.5
+- **Pandas**: v1.2.4
 - **SciPy**: v1.6.2
-- **Keras**: v2.4.3 (backend: TensorFlow v2.4.1)
+- **Matplotlib**: v3.4.2
+- **Seaborn**: v0.11.1
 - **Scikit-learn**: v0.24.1
+- **TensorFlow**: v2.4.1
+- **Keras**: v2.4.3 (backend: TensorFlow v2.4.1)
 - **RNAshapes**: If you cannot download it, please use the provided RNAshapes in this GitHub repository.
+
+You can install these dependencies using pip:
+```sh
+pip install numpy==1.19.5 pandas==1.2.4 scipy==1.6.2 matplotlib==3.4.2 seaborn==0.11.1 scikit-learn==0.24.1 tensorflow==2.4.1 keras==2.4.3
+
 
 ### Installation Instructions
 
