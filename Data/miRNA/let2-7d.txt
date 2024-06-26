@@ -1,0 +1,2 @@
+sequence	label
+AGAGGUAGUAGGUUGCAUAGUU	1
