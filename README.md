@@ -112,3 +112,8 @@ Below is a visual representation of the model components:
 This figure illustrates the workflow of the DeepMiRBP model, showing the two-part architecture and the interaction between the source and target domains.
 
 ![Overview-model2](https://github.com/sbbi-unl/DeepmiRBP/assets/55287271/1e7849b1-945b-48ff-867d-b8e8b2f082a7)
+
+
+##License
+This content should be easy to follow and suitable for a README.md file in a GitHub repository. It provides an overview of the model, installation instructions, and a high-level description of the model components and their usage.
+
