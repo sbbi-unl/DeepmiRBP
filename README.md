@@ -43,7 +43,7 @@ To ensure the proper functioning of DeepMiRBP, please make sure you have the fol
 - **Scikit-learn**: v0.24.1
 - **TensorFlow**: v2.4.1
 - **Keras**: v2.4.3 (backend: TensorFlow v2.4.1)
-- **RNAshapes**: If you cannot download it, please use the provided RNAshapes in this GitHub repository.
+
 
 You can install these dependencies using pip:
 ```sh
@@ -62,14 +62,6 @@ pip install numpy==1.19.5 pandas==1.2.4 scipy==1.6.2 matplotlib==3.4.2 seaborn==
     ```sh
     pip install -r requirements.txt
     ```
-
-
-3. **Install RNAshapes**:
-    - If RNAshapes is not available for download, use the provided RNAshapes file in the repository:
-        ```sh
-        cd RNAshapes
-        chmod +x RNAshapes
-        ```
 
 These steps ensure that all necessary dependencies are installed and configured correctly for running the DeepMiRBP model.
 
