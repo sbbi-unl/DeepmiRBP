@@ -40,7 +40,6 @@ To ensure the proper functioning of DeepMiRBP, please make sure you have the fol
 - **SciPy**: v1.6.2
 - **Keras**: v2.4.3 (backend: TensorFlow v2.4.1)
 - **Scikit-learn**: v0.24.1
-- **EDeN**: Use the provided `EDeN.zip` file, decompress it, and install it locally. Note that the latest code structure of EDeN has changed and may not be compatible with our code.
 - **RNAshapes**: If you cannot download it, please use the provided RNAshapes in this GitHub repository.
 
 ### Installation Instructions
@@ -56,19 +55,8 @@ To ensure the proper functioning of DeepMiRBP, please make sure you have the fol
     pip install -r requirements.txt
     ```
 
-3. **Install EDeN**:
-    - Download the `EDeN.zip` file from the repository.
-    - Decompress it:
-        ```sh
-        unzip EDeN.zip
-        ```
-    - Install EDeN locally:
-        ```sh
-        cd EDeN
-        python setup.py install
-        ```
 
-4. **Install RNAshapes**:
+3. **Install RNAshapes**:
     - If RNAshapes is not available for download, use the provided RNAshapes file in the repository:
         ```sh
         cd RNAshapes
