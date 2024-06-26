@@ -6,7 +6,6 @@ DeepMiRBP is a novel hybrid deep learning model designed to predict microRNA-bin
 ## Table of Contents
 - [Overview](#overview)
 - [Dependencies](#Dependencies)
-- [Usage](#usage)
 - [Model Components](#model-components)
 - [License](#license)
 
@@ -102,6 +101,6 @@ This figure illustrates the workflow of the DeepMiRBP model, showing the two-par
 ![Overview-model2](https://github.com/sbbi-unl/DeepmiRBP/assets/55287271/1e7849b1-945b-48ff-867d-b8e8b2f082a7)
 
 
-##License
+## license
 This content should be easy to follow and suitable for a README.md file in a GitHub repository. It provides an overview of the model, installation instructions, and a high-level description of the model components and their usage.
 
